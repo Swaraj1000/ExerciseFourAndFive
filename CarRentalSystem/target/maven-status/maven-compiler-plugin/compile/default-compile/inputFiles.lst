@@ -1,0 +1,9 @@
+/Users/storres/Projects/car-rental-system/car-rental-system/src/main/java/com/cm/app/model/Rental.java
+/Users/storres/Projects/car-rental-system/car-rental-system/src/main/java/com/cm/app/model/Customer.java
+/Users/storres/Projects/car-rental-system/car-rental-system/src/main/java/com/cm/app/services/CsvReader.java
+/Users/storres/Projects/car-rental-system/car-rental-system/src/main/java/com/cm/app/model/Vehicle.java
+/Users/storres/Projects/car-rental-system/car-rental-system/src/main/java/com/cm/app/services/RentalsMapper.java
+/Users/storres/Projects/car-rental-system/car-rental-system/src/main/java/com/cm/app/model/CarRental.java
+/Users/storres/Projects/car-rental-system/car-rental-system/src/main/java/com/cm/app/CarRentalSystem.java
+/Users/storres/Projects/car-rental-system/car-rental-system/src/main/java/com/cm/app/services/VehiclesMapper.java
+/Users/storres/Projects/car-rental-system/car-rental-system/src/main/java/com/cm/app/services/CsvWriter.java
